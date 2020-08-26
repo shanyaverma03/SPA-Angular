@@ -1,0 +1,33 @@
+<section>
+    <mat-toolbar class="header" color="primary">
+        <img class="logo" src="../assets/news.jpg" alt="logo">
+        <span class="heading">Alert News</span>
+        <article class="view-fav">
+            <!-- <a routerLink="/login">View Fav</a> -->
+           
+            <button routerLink="/search" class="view-button" (click)='send("")' mat-raised-button color="accent">View Fav</button>
+         
+        
+        </article>
+        <form class="search">
+            <mat-form-field class="search-form">
+                <input class="search-input" matInput #myquery placeholder="Search" type="text">
+                <button routerLink="/search" (click)="send(myquery.value)"><i class="fa fa-search fa-2x" aria-hidden="true"></i></button>
+            </mat-form-field>
+        </form>
+
+        <section class="options">
+            <button class="options-button" mat-raised-button color="accent" [matMenuTriggerFor]="menu">Options</button>
+            <mat-menu #menu="matMenu">
+                <button routerLink="/login" mat-menu-item>Login</button>
+                <button routerLink="/dashboard" mat-menu-item>Dashboard</button>
+                <button (click)="logout()" routerLink="/logout" mat-menu-item>Logout</button>
+            </mat-menu>
+        </section>
+      
+
+    </mat-toolbar>
+
+
+</section>
+<router-outlet></router-outlet>

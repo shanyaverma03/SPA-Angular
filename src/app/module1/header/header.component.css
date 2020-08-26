@@ -1,0 +1,41 @@
+.heading{
+    font-size: 7vh;
+}
+.logo{
+    height: 10vh;
+    width: 11vw;
+    padding-right: 1em;
+}
+.header{
+    height:15vh;
+}
+.view-fav{
+    padding-left: 20em;
+    
+    
+}
+
+.view-button{
+    padding: 0.7em;
+    width: 7.5vw;
+    font-size: 3vh;
+}
+
+.search-form{
+    padding-left: 7em;
+}
+
+.options{
+    padding-left: 5em;
+}
+
+.options-button{
+    padding: 0.7em;
+    width: 7.5vw;
+    
+    font-size: 3vh;
+}
+
+.search-form{
+    font-size: 3vh;
+}

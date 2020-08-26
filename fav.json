@@ -1,0 +1,94 @@
+{
+  "articles": [
+    {
+      "user": "",
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "",
+      "title": "ASUS kept the flippable camera for the flagship ZenFone 7 Pro - Engadget",
+      "description": "Apparently people really liked the flip camera on the ZenFone 6, so much that ASUS decided to keep this feature for its 2020 flagship, the ZenFone 7 Pro.",
+      "url": "https://www.engadget.com/asus-zenfone-7-pro-flip-camera-hands-on-pricing-preview-190048055.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fb8e94de0-e693-11ea-903f-29cdd9b38fa5&client=amp-blogside-v2&signature=30a15f9fcc70fa780ecafe96d774f35b34fa686d",
+      "publishedAt": "2020-08-26T07:32:19Z",
+      "content": "In addition to the 64-megapixel f/1.8 main camera and the 12-megapixel f/2.2 ultra-wide camera, the ZenFone 7 Pro’s flip camera module has gained an 8-megapixel f/2.4 telephoto camera, which offers 3… [+6146 chars]",
+      "id": 1
+    },
+    {
+      "user": "admin",
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "",
+      "title": "ASUS kept the flippable camera for the flagship ZenFone 7 Pro - Engadget",
+      "description": "Apparently people really liked the flip camera on the ZenFone 6, so much that ASUS decided to keep this feature for its 2020 flagship, the ZenFone 7 Pro.",
+      "url": "https://www.engadget.com/asus-zenfone-7-pro-flip-camera-hands-on-pricing-preview-190048055.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fb8e94de0-e693-11ea-903f-29cdd9b38fa5&client=amp-blogside-v2&signature=30a15f9fcc70fa780ecafe96d774f35b34fa686d",
+      "publishedAt": "2020-08-26T07:32:19Z",
+      "content": "In addition to the 64-megapixel f/1.8 main camera and the 12-megapixel f/2.2 ultra-wide camera, the ZenFone 7 Pro’s flip camera module has gained an 8-megapixel f/2.4 telephoto camera, which offers 3… [+6146 chars]",
+      "id": 2
+    },
+    {
+      "user": "admin",
+      "source": {
+        "id": null,
+        "name": "Billboard"
+      },
+      "author": "Lars Brandle",
+      "title": "Sheldon Riley Reimagines Kylie Minogue’s ‘Can’t Get You Out of My Head’ on ‘AGT’: Watch - Billboard",
+      "description": "",
+      "url": "https://www.billboard.com/articles/news/9439994/sheldon-riley-cover-kylie-minogue-cant-get-you-out-of-my-head-agt",
+      "urlToImage": "https://static.billboard.com/files/2020/07/Sheldon-Riley-americas-got-talent-july-14-2020-billboar-1548-1594825110-1024x677.jpg",
+      "publishedAt": "2020-08-26T07:16:14Z",
+      "content": "Sheldon Riley hides his face behind a mask, but theres nothing shy about his performances.\r\nAs the quarter-finals continued Tuesday night on Americas Got Talent, the mysterious Australian singer chos… [+565 chars]",
+      "id": 3
+    },
+    {
+      "user": "admin",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Mark Guarino, Jaclyn Peiser",
+      "title": "Multiple protesters shot in Kenosha during third night of unrest over Jacob Blake’s shooting - The Washington Post",
+      "description": "On the third day of protests over the shooting of Jacob Blake Jr., police fired tear gas from behind an eight-foot fence at hundreds of protesters shooting fireworks and flinging rocks.",
+      "url": "https://www.washingtonpost.com/nation/2020/08/26/jacob-blake-kenosha-police-protests/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LOJZTTXG7AI6VP2EBUY4QWBYUU.jpg&w=1440",
+      "publishedAt": "2020-08-26T05:57:00Z",
+      "content": "Shots were first fired after midnight, as a group of protesters on Sheridan Road faced off with police in armored trucks. A young White man carrying an AR-15-style rifle began running north on Sherid… [+4108 chars]",
+      "id": 4
+    },
+    {
+      "user": "",
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "David Murphy",
+      "title": "Stop Paying the Apple Tax",
+      "description": "The Apple tax is no joke, but neither is a typical Apple owner’s fear of popping open their systems and feeding their Mac some extra-delicious low-cost memory. But here’s the thing: If you pay Apple for RAM that you can install yourself, you’re wasting money.…",
+      "url": "https://lifehacker.com/dont-buy-overpriced-ram-from-apple-1844778287",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/nzm0tm7oepn9uafordzq.jpg",
+      "publishedAt": "2020-08-20T14:00:00Z",
+      "content": "The Apple tax is no joke, but neither is a typical Apple owners fear of popping open their systems and feeding their Mac some extra-delicious low-cost memory. But heres the thing: If you pay Apple fo… [+4154 chars]",
+      "id": 5
+    },
+    {
+      "user": "admin1",
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "",
+      "title": "ASUS kept the flippable camera for the flagship ZenFone 7 Pro - Engadget",
+      "description": "Apparently people really liked the flip camera on the ZenFone 6, so much that ASUS decided to keep this feature for its 2020 flagship, the ZenFone 7 Pro.",
+      "url": "https://www.engadget.com/asus-zenfone-7-pro-flip-camera-hands-on-pricing-preview-190048055.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fb8e94de0-e693-11ea-903f-29cdd9b38fa5&client=amp-blogside-v2&signature=30a15f9fcc70fa780ecafe96d774f35b34fa686d",
+      "publishedAt": "2020-08-26T07:32:19Z",
+      "content": "In addition to the 64-megapixel f/1.8 main camera and the 12-megapixel f/2.2 ultra-wide camera, the ZenFone 7 Pro’s flip camera module has gained an 8-megapixel f/2.4 telephoto camera, which offers 3… [+6146 chars]",
+      "id": 6
+    }
+  ]
+}

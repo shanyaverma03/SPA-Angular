@@ -1,0 +1,24 @@
+<h1>Dashboard</h1>
+<section class="cards">
+    <mat-card class="news-card" *ngFor='let new of newslist'>
+        <mat-card-header class="card">
+
+            <mat-card-title class="title">{{new.author}}</mat-card-title>
+
+            <mat-card-subtitle class="subtitle">{{new.description}}</mat-card-subtitle>
+
+
+        </mat-card-header>
+        <div><img mat-card-image src="{{new.photo}}" alt="Photo"></div>
+        <!-- <mat-card-content>
+            <p>
+                {{book.authors}}
+            </p>
+        </mat-card-content> -->
+
+        <mat-card-actions class="buttons">
+            <button mat-raised-button color="accent" routerLink="/login" (click)="add(new)">Add to Fav</button>
+            <button mat-raised-button color="accent" routerLink="/login" (click)="deleteFav(new)">Delete from Fav</button>
+        </mat-card-actions>
+    </mat-card>
+</section>

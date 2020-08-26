@@ -1,0 +1,39 @@
+.h1{
+    padding-left:10em;
+}
+.cards{
+    margin-top: 13vh;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+   
+    
+}
+
+.news-card{
+    padding: 1em;
+    border: 3.5px solid blue;
+    border-radius: 1.5em;
+    box-shadow: 5px 5px;
+    background-color: lightblue;
+    
+    margin: 2em;
+}
+
+.card{
+    display:flex;
+    flex-direction: column;
+}
+
+.title{
+    padding-bottom: 1em;
+}
+
+.subtitle{
+    color: black;
+}
+
+.buttons{
+    padding-left: 2em;
+}

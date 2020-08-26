@@ -1,0 +1,9 @@
+<main>
+    <router-outlet></router-outlet>
+        <h1>Login</h1>
+        <form #loginForm='ngForm' (ngSubmit)='login(loginForm.value)'>
+            <input type="text" name='username' placeholder="username" ngModel>
+            <input type="password" name="password" name='password' placeholder="password" ngModel>
+            <input type="submit" value="Login" class='button'>
+        </form>
+    </main>

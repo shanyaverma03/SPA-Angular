@@ -1,0 +1,22 @@
+
+<router-outlet></router-outlet>
+<h1>Results:</h1>
+<section class="cards">
+    <mat-card class="news-card" *ngFor='let search of searchlist'>
+        <mat-card-header class="card">
+
+            <mat-card-title class="title">{{search.author}}</mat-card-title>
+
+            <mat-card-subtitle class="subtitle" >{{search.description}}</mat-card-subtitle>
+
+
+        </mat-card-header>
+        <img mat-card-image src={{search.photo}} alt="Photo">
+     
+        <mat-card-actions class="buttons">
+            <button mat-raised-button color="accent" routerLink="/login" (click)="add(search)">Add to Fav</button>
+            <button mat-raised-button color="accent" routerLink="/login" (click)="deleteFav(search)">Delete from Fav</button>
+            
+        </mat-card-actions>
+    </mat-card>
+</section>

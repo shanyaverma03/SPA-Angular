@@ -1,0 +1,39 @@
+main{
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+    padding: 2em;
+    color:darkblue;
+   
+}
+
+/* main button{
+    background-color: darkblue;
+    color: white;
+    padding: 0.5em 1em;
+    font-weight: bold;
+} */
+
+form{
+    width: 40vw;
+    margin: 10vh auto;
+    border: 1px dotted black;
+    padding : 2em;
+}
+
+input{
+    height: 2em;
+    font-size: 1em;
+    border:none;
+    border-bottom: 2px s	olid;
+    width: 90%;
+    margin: 1em;
+}
+
+.button{
+    width:5vw;
+    border: 2px solid;
+    margin-left: 30vw;
+    border-radius: 5px;
+    background-color: lightyellow;
+}
